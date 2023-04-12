@@ -11,7 +11,7 @@
 - 👯 Estou procurando colaborar em Desenvolvimento | Suporte | Testes
 - 🤔 Estou em busca de aprimoramento e crescimento profissional
 - 💬 Me pergunte sobre investimentos | Python - Odoo | apresentação pessoal 
-- 📫 Para me contatar temos meu linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/joao-victor-de-oliveira/](https://www.linkedin.com/in/joao-victor-de-oliveira/))| instagram: joaovictor_025
+- 📫 Para me contatar temos meu linkedin: [![LinkedIn](https://www.linkedin.com/in/joao-victor-de-oliveira/)| [Instagram](https://www.instagram.com/joaovictor_025/)
 - 😄 Villa
 - ⚡ Sou viciado na cultura nerd, animes, quadrinhos, super-heróis e gosto muito de viajar também, são meus hobbys favoritos.
 
